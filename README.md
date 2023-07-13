@@ -1,5 +1,6 @@
 ### Hi there, everyone👋.
-I'm Jan Carlos, a Computer Science student at University of Havana 
+
+I'm Jan Carlos, a Computer Science student at University of Havana.
 
 ![Jan Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=wwJCarlosPG&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wwJCarlosPG&layout=compact&theme=dracula)
