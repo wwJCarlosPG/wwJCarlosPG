@@ -1,6 +1,9 @@
-### Hi there 👋, I'm Jan Carlos.  
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=wwJCarlosPG&count_private=true&theme=tokyonight&showicons=true)]()
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wwJCarlosPG&layout=donut-vertical&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+### Hi there, everyone👋.
+I'm Jan Carlos, a Computer Science student at University of Havana 
+
+![Jan Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=wwJCarlosPG&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wwJCarlosPG&layout=compact&theme=dracula)
+
 <!--
 **wwJCarlosPG/wwJCarlosPG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
