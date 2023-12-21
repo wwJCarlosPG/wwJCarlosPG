@@ -5,6 +5,15 @@ I'm Jan Carlos, a Computer Science student at University of Havana.
 ![Jan Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=wwJCarlosPG&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wwJCarlosPG&layout=compact&theme=dracula)
 
+
+
+<h3 align="left">Languages and Skills</h3>
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,py,git,mysql,haskell,kotlin&theme=dark" />
+  </a>
+</p>
 <!--
 **wwJCarlosPG/wwJCarlosPG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
