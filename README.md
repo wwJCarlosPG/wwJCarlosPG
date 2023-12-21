@@ -4,6 +4,7 @@ I'm Jan Carlos, a Computer Science student at University of Havana.
 
 ![Jan Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=wwJCarlosPG&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wwJCarlosPG&layout=compact&theme=dracula)
+![Skills](https://github.com/ram-kumar-shrestha/ram-kumar-shrestha?tab=readme-ov-file#-socials)
 
 <!--
 **wwJCarlosPG/wwJCarlosPG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
