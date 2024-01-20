@@ -1,7 +1,7 @@
-### Hi there, everyone👋.
+### Hi there, everyone👋😄.
 
 I'm Jan Carlos, a Computer Science student at University of Havana.
-
+📫 How to reach me: 
 
 
 <h3 align="left">Languages and Skills</h3>
