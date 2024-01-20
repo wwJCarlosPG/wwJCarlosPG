@@ -1,14 +1,16 @@
 ### Hi there, everyone👋😄.
 
 I'm Jan Carlos, a Computer Science student at University of Havana.
-📫 How to reach me: 
 
+🏠 I live in Havana, Cuba 🇨🇺
+
+📫 How to reach me: wwjancarlospg2000@gmail.com
 
 <h3 align="left">Languages and Skills</h3>
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,py,git,mysql,haskell,kotlin&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=cs,net,py,git,mysql,haskell,kotlin &theme=dark" />
   </a>
 </p>
 <!--
